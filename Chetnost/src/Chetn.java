@@ -1,4 +1,4 @@
-public class Chetn {
+﻿public class Chetn {
     public static void main(String args[])
            throws java.io.IOException
     {
@@ -8,7 +8,7 @@ public class Chetn {
                    System.out.printf("Число %c - чётное\n", i);
                else System.out.printf("Число %c - нечётное\n", i);
 
-        System.out.println("Test for Git");
+        System.out.println("Test for Git 2");
               /* double a = 2;
                int b = 3;
                double c = b/a;
